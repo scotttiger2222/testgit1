@@ -1,4 +1,4 @@
-package com.loiane.springcloudhello.model;
+packageeeeeeeeeee com.loiane.springcloudhello.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
